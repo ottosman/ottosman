@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cafer Osman YILDIZ</h1>
 <h3 align="center">🤖 Developing Artificial Intelligence solutions</h3>
 
-- ⚡ Co-Founder at **CappAI**
+- ⚡ 
 
 - 🔭 I’m currently working on **Computer Vision**
 

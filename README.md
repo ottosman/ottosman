@@ -3,7 +3,7 @@
 
 - ⚡ 
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Computer Vision** and **Data Science**
 
 - 📫 How to reach me **caess903@gmail.com**
 
